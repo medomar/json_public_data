@@ -11,7 +11,7 @@
                "image": {
                    "_id": "647f94ebcaa96ef2fc1bee25",
                    "type": "image",
-                   "data": "data16860827959301686082795929-abricot.jpeg",
+                   "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                    "name": "Abricot "
                },
                "audio": {
@@ -29,7 +29,7 @@
                        "image": {
                            "_id": "64a29107508b7f93cb450c4e",
                            "type": "image",
-                           "data": "data16883755592831688375559283-ananas.jpeg",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "Ananas"
                        }
                    },
@@ -41,7 +41,7 @@
                        "image": {
                            "_id": "647f94ebcaa96ef2fc1bee25",
                            "type": "image",
-                           "data": "data16860827959301686082795929-abricot.jpeg",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "Abricot "
                        }
                    },
@@ -53,7 +53,7 @@
                        "image": {
                            "_id": "6486ec2584e0fd8a919c9f29",
                            "type": "image",
-                           "data": "data16865638775051686563877505-cerise.jpeg",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "cerise"
                        }
                    }
@@ -72,7 +72,7 @@
               "image": {
                   "_id": "6486ec4784e0fd8a919c9f2d",
                   "type": "image",
-                  "data": "data16865639115031686563911503-chat-rouge-blanc-je-studio-blanc.jpg",
+                  "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                   "name": "chat"
               },
               "audio": {
@@ -90,7 +90,7 @@
                       "image": {
                           "_id": "6486ec5784e0fd8a919c9f31",
                           "type": "image",
-                          "data": "data16865639270781686563927078-cheval.jpeg",
+                          "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                           "name": "Cheval"
                       }
                   },
@@ -102,7 +102,7 @@
                       "image": {
                           "_id": "6486ec6c84e0fd8a919c9f36",
                           "type": "image",
-                          "data": "data16865639482491686563948249-coq.jpeg",
+                          "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                           "name": "Coq"
                       }
                   },
@@ -114,7 +114,7 @@
                       "image": {
                           "_id": "6486ec4784e0fd8a919c9f2d",
                           "type": "image",
-                          "data": "data16865639115031686563911503-chat-rouge-blanc-je-studio-blanc.jpg",
+                          "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                           "name": "chat"
                       }
                   }
@@ -133,7 +133,7 @@
                "image": {
                    "_id": "647f0937caa96ef2fc1bec6d",
                    "type": "image",
-                   "data": "data16860470314061686047031406-a_pommes_de_terre.png",
+                   "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                    "name": "Pomme de terre"
                },
                "audio": {
@@ -151,7 +151,7 @@
                        "image": {
                            "_id": "64a29c7f0c11a47cea2dd0a2",
                            "type": "image",
-                           "data": "data16883784957821688378495782-citrouille.jpeg",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "Citrouille "
                        }
                    },
@@ -163,7 +163,7 @@
                        "image": {
                            "_id": "64a29d4d0c11a47cea2dd0a4",
                            "type": "image",
-                           "data": "data16883787015321688378701532-chou-fleur.jpeg",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "Chou-fleur "
                        }
                    },
@@ -175,7 +175,7 @@
                        "image": {
                            "_id": "647f0937caa96ef2fc1bec6d",
                            "type": "image",
-                           "data": "data16860470314061686047031406-a_pommes_de_terre.png",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
                            "name": "Pomme de terre"
                        }
                    }
