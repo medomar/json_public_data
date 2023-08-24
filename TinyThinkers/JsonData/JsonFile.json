@@ -181,5 +181,67 @@
                    }
                ],
            }
-       }
+       },
+            {
+            "_id": "64e6730a80265dca5bc09236",
+            "Age": 7,
+            "Category": "fruits",
+            "state": true,
+            "Question": {
+                "_id": "64e672bf80265dca5bc0922b",
+                "title": "Question sur les fruits",
+                "description": "Est-ce que tu connais ce fruit ?",
+                "image": {
+                    "_id": "64e64afe80265dca5bc091ac",
+                    "type": "image",
+                    "data": "https://github.com/medomar/TinyThinkers/assets/122084936/e33af4d6-6e75-47cb-b0fb-5ebf47764179",
+                    "name": "Banane"
+                },
+                "audio": {
+                    "_id": "6494320737e32c916ce14047",
+                    "type": "son",
+                    "data": null,
+                    "name": "sans son"
+                },
+                "Answer": [
+                    {
+                        "_id": "64e671bd80265dca5bc09227",
+                        "title": "Orange",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64e609d080265dca5bc09168",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/95cad34f-d9b8-4655-906f-5482b6aaf130",
+                            "name": "Orange"
+                        }
+                    },
+                    {
+                        "_id": "64e671a180265dca5bc09225",
+                        "title": "Melon",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64e649a880265dca5bc091a8",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/6a9e46f8-b285-44b0-be88-4d735c08e6a3",
+                            "name": "melon"
+                        }
+                    },
+                    {
+                        "_id": "64e6718180265dca5bc09223",
+                        "title": "Banane",
+                        "description": "",
+                        "isCorrect": true,
+                        "image": {
+                            "_id": "64e64afe80265dca5bc091ac",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/e33af4d6-6e75-47cb-b0fb-5ebf47764179",
+                            "name": "Banane"
+                        }
+                    }
+                ],
+                "__v": 0
+            }
+        }
 ] 
