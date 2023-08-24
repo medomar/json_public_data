@@ -186,5 +186,311 @@
             }
         },
            
-           
+{
+           "_id": "64a299180c11a47cea2dd093",
+           "Age": 3,
+           "Category": "fruits",
+           "state": true,
+           "Question": {
+               "_id": "64a298050c11a47cea2dd086",
+               "title": "Question sur les fruits",
+               "description": "Est ce que tu connais se fruit??",
+               "image": {
+                   "_id": "647f94ebcaa96ef2fc1bee25",
+                   "type": "image",
+                   "data": "https://github.com/medomar/TinyThinkers/assets/122084936/79fea8ba-0c57-49d5-b43b-892a784712f2",
+                   "name": "Abricot "
+               },
+               "audio": {
+                   "_id": "6494320737e32c916ce14047",
+                   "type": "son",
+                   "data": null,
+                   "name": "sans son"
+               },
+               "Answer": [
+                   {
+                       "_id": "64a2911a508b7f93cb450c50",
+                       "title": "Ananas",
+                       "description": "",
+                       "isCorrect": false,
+                       "image": {
+                           "_id": "64a29107508b7f93cb450c4e",
+                           "type": "image",
+                           "data": "https://github.com/medomar/TinyThinkers/assets/122084936/b3158680-7f95-40c2-8bdb-bdade869ec48",
+                           "name": "Ananas"
+                       }
+                   },
+                   {
+                       "_id": "64a29080508b7f93cb450c4c",
+                       "title": "Abricot",
+                       "description": "",
+                       "isCorrect": true,
+                       "image": {
+                           "_id": "647f94ebcaa96ef2fc1bee25",
+                           "type": "image",
+                           "data": "https://github.com/medomar/TinyThinkers/assets/122084936/79fea8ba-0c57-49d5-b43b-892a784712f2",
+                           "name": "Abricot "
+                       }
+                   },
+                   {
+                       "_id": "64a2905c508b7f93cb450c49",
+                       "title": "cerise",
+                       "description": "",
+                       "isCorrect": false,
+                       "image": {
+                           "_id": "6486ec2584e0fd8a919c9f29",
+                           "type": "image",
+                           "data": "https://github.com/medomar/TinyThinkers/assets/122084936/b8853a0b-a988-4346-b11c-a694050a4dcd",
+                           "name": "cerise"
+                       }
+                   }
+               ],
+           }
+       },
+{
+          "_id": "64a2a8f30c11a47cea2dd109",
+          "Age": 5,
+          "Category": "animal",
+          "state": true,
+          "Question": {
+              "_id": "64a2a8e40c11a47cea2dd107",
+              "title": "Question sur les Animaux ",
+              "description": "Est ce que tu connais cet animal ??",
+              "image": {
+                  "_id": "6486ec4784e0fd8a919c9f2d",
+                  "type": "image",
+                  "data": "https://github.com/medomar/TinyThinkers/assets/122084936/8f5b1603-a9fb-4fa6-b467-e70e350b4902",
+                  "name": "chat"
+              },
+              "audio": {
+                  "_id": "6492e45fcf188fa4327c438a",
+                  "type": "son",
+                  "data": "data16873483191601687348319160-chat.mp3",
+                  "name": "son du chat"
+              },
+              "Answer": [
+                  {
+                      "_id": "64a2a4c60c11a47cea2dd0dc",
+                      "title": "Cheval",
+                      "description": "",
+                      "isCorrect": false,
+                      "image": {
+                          "_id": "6486ec5784e0fd8a919c9f31",
+                          "type": "image",
+                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/1b97f44e-a21c-4762-b7ff-b01934414b8e",
+                          "name": "Cheval"
+                      }
+                  },
+                  {
+                      "_id": "64a2a59a0c11a47cea2dd0de",
+                      "title": "Coq",
+                      "description": "",
+                      "isCorrect": false,
+                      "image": {
+                          "_id": "6486ec6c84e0fd8a919c9f36",
+                          "type": "image",
+                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/c5f53b29-0bbc-4c89-b04e-5cbe614985ed",
+                          "name": "Coq"
+                      }
+                  },
+                  {
+                      "_id": "64a2a49c0c11a47cea2dd0d8",
+                      "title": "Chat",
+                      "description": "Le chat est un adorable animal de compagnie. Il a un corps souple et agile, recouvert de poils doux. Les chats ont des yeux vifs et des oreilles pointues. Ils aiment chasser les souris et jouer avec des balles ou des plume.",
+                      "isCorrect": true,
+                      "image": {
+                          "_id": "6486ec4784e0fd8a919c9f2d",
+                          "type": "image",
+                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/8f5b1603-a9fb-4fa6-b467-e70e350b4902",
+                          "name": "chat"
+                      }
+                  }
+              ],
+          }
+      },
+{
+           "_id": "64a2a3b40c11a47cea2dd0c8",
+           "Age": 4,
+           "Category": "légumes",
+           "state": true,
+           "Question": {
+               "_id": "64a2a1a50c11a47cea2dd0b4",
+               "title": "Question sur les légumes",
+               "description": "Est ce que tu connais ce légume ??",
+               "image": {
+                   "_id": "647f0937caa96ef2fc1bec6d",
+                   "type": "image",
+                   "data": "https://github.com/medomar/TinyThinkers/assets/122084936/d009e265-98c4-4cc1-89d9-fae92a1c6e80",
+                   "name": "Pomme de terre"
+               },
+               "audio": {
+                   "_id": "6494320737e32c916ce14047",
+                   "type": "son",
+                   "data": null,
+                   "name": "sans son"
+               },
+               "Answer": [
+                   {
+                       "_id": "64a29e590c11a47cea2dd0ac",
+                       "title": "Citrouille",
+                       "description": "",
+                       "isCorrect": false,
+                       "image": {
+                           "_id": "64a29c7f0c11a47cea2dd0a2",
+                           "type": "image",
+                           "data": "https://github.com/medomar/json_public_data/assets/20699993/899a84e3-7cb9-4219-b90d-7b8e6a792210",
+                           "name": "Citrouille "
+                       }
+                   },
+                   {
+                       "_id": "64a29ded0c11a47cea2dd0a9",
+                       "title": "Chou-fleur",
+                       "description": "",
+                       "isCorrect": false,
+                       "image": {
+                           "_id": "64a29d4d0c11a47cea2dd0a4",
+                           "type": "image",
+                           "data": "https://github.com/medomar/TinyThinkers/assets/122084936/f956d5db-fa23-4b6f-9877-7aedfe27edfe",
+                           "name": "Chou-fleur "
+                       }
+                   },
+                   {
+                       "_id": "64a29b720c11a47cea2dd09e",
+                       "title": "Pomme de terre",
+                       "description": "La pomme de terre est un légume rond et délicieux. Elle pousse sous la terre et peut être brune, jaune ou violette à l'extérieur. À l'intérieur, elle est blanche ou jaune pâle. On peut la cuisiner de différentes façons, comme des frites ou de la purée. La pomme de terre est bonne pour notre corps car elle contient des vitamines et des minéraux. C'est un légume spécial et savoureux !",
+                       "isCorrect": true,
+                       "image": {
+                           "_id": "647f0937caa96ef2fc1bec6d",
+                           "type": "image",
+                           "data": "https://github.com/medomar/TinyThinkers/assets/122084936/d009e265-98c4-4cc1-89d9-fae92a1c6e80",
+                           "name": "Pomme de terre"
+                       }
+                   }
+               ],
+           }
+       },
+        {
+            "_id": "64e63ae980265dca5bc09191",
+            "Age": 5,
+            "Category": "légumes",
+            "state": true,
+            "Question": {
+                "_id": "64e6323280265dca5bc0918f",
+                "title": "Question sur les légumes",
+                "description": "Reconnais-tu ce légume ?",
+                "image": {
+                    "_id": "64e609fa80265dca5bc0916a",
+                    "type": "image",
+                    "data": "https://github.com/medomar/TinyThinkers/assets/122084936/26b5a294-f16c-4afd-be68-da7510f20805",
+                    "name": "Ognions"
+                },
+                "audio": {
+                    "_id": "6494320737e32c916ce14047",
+                    "type": "son",
+                    "data": null,
+                    "name": "sans son"
+                },
+                "Answer": [
+                    {
+                        "_id": "64e62ab180265dca5bc09175",
+                        "title": "Citrouille",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64a29c7f0c11a47cea2dd0a2",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/1b38c6fb-6cb2-4c9e-a65b-c402989b2b01",
+                            "name": "Citrouille "
+                        }
+                    },
+                    {
+                        "_id": "64e629c180265dca5bc09173",
+                        "title": "Carotte",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64e607d380265dca5bc09156",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/260bd209-53da-4faa-b806-e91896b9c870",
+                            "name": "Carotte "
+                        }
+                    },
+                    {
+                        "_id": "64e625f380265dca5bc0916f",
+                        "title": "Ognions",
+                        "description": "",
+                        "isCorrect": true,
+                        "image": {
+                            "_id": "64e609fa80265dca5bc0916a",
+                            "type": "image",
+                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/26b5a294-f16c-4afd-be68-da7510f20805",
+                            "name": "Ognions"
+                        }
+                    }
+                ],
+                "__v": 0
+            }
+        },
+        {
+            "_id": "64e667ad80265dca5bc0921b",
+            "Age": 7,
+            "Category": "animal",
+            "state": true,
+            "Question": {
+                "_id": "64e6679980265dca5bc09219",
+                "title": "Question sur les Animaux",
+                "description": "Reconnaissez-vous cet animal ?",
+                "image": {
+                    "_id": "64e663f480265dca5bc0920d",
+                    "type": "image",
+                    "data": "data16928204688221692820468822-tigre-du-bengale-incroyable-dans-nature.jpg",
+                    "name": "Tigre"
+                },
+                "audio": {
+                    "_id": "6494320737e32c916ce14047",
+                    "type": "son",
+                    "data": null,
+                    "name": "sans son"
+                },
+                "Answer": [
+                    {
+                        "_id": "64e666c180265dca5bc09215",
+                        "title": "Zebre",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64e662d980265dca5bc09209",
+                            "type": "image",
+                            "data": "data16928201859461692820185946-data16839001029821683900102982-jason-zhao-A-IsjKpPXCE-unsplash.jpg",
+                            "name": "Zebre"
+                        }
+                    },
+                    {
+                        "_id": "64e665ab80265dca5bc09212",
+                        "title": "Chien",
+                        "description": "",
+                        "isCorrect": false,
+                        "image": {
+                            "_id": "64e663db80265dca5bc0920b",
+                            "type": "image",
+                            "data": "data16928204435161692820443516-labrador-recuperer.jpg",
+                            "name": "chien"
+                        }
+                    },
+                    {
+                        "_id": "64e6651d80265dca5bc09210",
+                        "title": "tigre",
+                        "description": "",
+                        "isCorrect": true,
+                        "image": {
+                            "_id": "64e663f480265dca5bc0920d",
+                            "type": "image",
+                            "data": "data16928204688221692820468822-tigre-du-bengale-incroyable-dans-nature.jpg",
+                            "name": "Tigre"
+                        }
+                    }
+                ],
+                "__v": 0
+            }
+        }            
 ] 
