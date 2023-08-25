@@ -248,67 +248,6 @@
            }
        },
 {
-          "_id": "64a2a8f30c11a47cea2dd109",
-          "Age": 5,
-          "Category": "animal",
-          "state": true,
-          "Question": {
-              "_id": "64a2a8e40c11a47cea2dd107",
-              "title": "Question sur les Animaux ",
-              "description": "Est ce que tu connais cet animal ??",
-              "image": {
-                  "_id": "6486ec4784e0fd8a919c9f2d",
-                  "type": "image",
-                  "data": "https://github.com/medomar/TinyThinkers/assets/122084936/8f5b1603-a9fb-4fa6-b467-e70e350b4902",
-                  "name": "chat"
-              },
-              "audio": {
-                  "_id": "6492e45fcf188fa4327c438a",
-                  "type": "son",
-                  "data": "data16873483191601687348319160-chat.mp3",
-                  "name": "son du chat"
-              },
-              "Answer": [
-                  {
-                      "_id": "64a2a4c60c11a47cea2dd0dc",
-                      "title": "Cheval",
-                      "description": "",
-                      "isCorrect": false,
-                      "image": {
-                          "_id": "6486ec5784e0fd8a919c9f31",
-                          "type": "image",
-                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/1b97f44e-a21c-4762-b7ff-b01934414b8e",
-                          "name": "Cheval"
-                      }
-                  },
-                  {
-                      "_id": "64a2a59a0c11a47cea2dd0de",
-                      "title": "Coq",
-                      "description": "",
-                      "isCorrect": false,
-                      "image": {
-                          "_id": "6486ec6c84e0fd8a919c9f36",
-                          "type": "image",
-                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/c5f53b29-0bbc-4c89-b04e-5cbe614985ed",
-                          "name": "Coq"
-                      }
-                  },
-                  {
-                      "_id": "64a2a49c0c11a47cea2dd0d8",
-                      "title": "Chat",
-                      "description": "Le chat est un adorable animal de compagnie. Il a un corps souple et agile, recouvert de poils doux. Les chats ont des yeux vifs et des oreilles pointues. Ils aiment chasser les souris et jouer avec des balles ou des plume.",
-                      "isCorrect": true,
-                      "image": {
-                          "_id": "6486ec4784e0fd8a919c9f2d",
-                          "type": "image",
-                          "data": "https://github.com/medomar/TinyThinkers/assets/122084936/8f5b1603-a9fb-4fa6-b467-e70e350b4902",
-                          "name": "chat"
-                      }
-                  }
-              ],
-          }
-      },
-{
            "_id": "64a2a3b40c11a47cea2dd0c8",
            "Age": 4,
            "Category": "légumes",
@@ -381,7 +320,7 @@
                 "image": {
                     "_id": "64e609fa80265dca5bc0916a",
                     "type": "image",
-                    "data": "https://github.com/medomar/TinyThinkers/assets/122084936/26b5a294-f16c-4afd-be68-da7510f20805",
+                    "data": "https://github.com/medomar/json_public_data/assets/122084936/69d0f538-113f-4565-989a-36d4e0dfd47d",
                     "name": "Ognions"
                 },
                 "audio": {
@@ -399,7 +338,7 @@
                         "image": {
                             "_id": "64a29c7f0c11a47cea2dd0a2",
                             "type": "image",
-                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/1b38c6fb-6cb2-4c9e-a65b-c402989b2b01",
+                            "data": "https://github.com/medomar/json_public_data/assets/122084936/32224b44-5d6c-4672-9f9b-993b4390136e",
                             "name": "Citrouille "
                         }
                     },
@@ -411,7 +350,7 @@
                         "image": {
                             "_id": "64e607d380265dca5bc09156",
                             "type": "image",
-                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/260bd209-53da-4faa-b806-e91896b9c870",
+                            "data": "https://github.com/medomar/json_public_data/assets/122084936/c564bc0b-5ccb-4b56-a5e4-afa00c70b5d9",
                             "name": "Carotte "
                         }
                     },
@@ -423,74 +362,12 @@
                         "image": {
                             "_id": "64e609fa80265dca5bc0916a",
                             "type": "image",
-                            "data": "https://github.com/medomar/TinyThinkers/assets/122084936/26b5a294-f16c-4afd-be68-da7510f20805",
+                            "data": "https://github.com/medomar/json_public_data/assets/122084936/69d0f538-113f-4565-989a-36d4e0dfd47d",
                             "name": "Ognions"
                         }
                     }
                 ],
                 "__v": 0
             }
-        },
-        {
-            "_id": "64e667ad80265dca5bc0921b",
-            "Age": 7,
-            "Category": "animal",
-            "state": true,
-            "Question": {
-                "_id": "64e6679980265dca5bc09219",
-                "title": "Question sur les Animaux",
-                "description": "Reconnaissez-vous cet animal ?",
-                "image": {
-                    "_id": "64e663f480265dca5bc0920d",
-                    "type": "image",
-                    "data": "data16928204688221692820468822-tigre-du-bengale-incroyable-dans-nature.jpg",
-                    "name": "Tigre"
-                },
-                "audio": {
-                    "_id": "6494320737e32c916ce14047",
-                    "type": "son",
-                    "data": null,
-                    "name": "sans son"
-                },
-                "Answer": [
-                    {
-                        "_id": "64e666c180265dca5bc09215",
-                        "title": "Zebre",
-                        "description": "",
-                        "isCorrect": false,
-                        "image": {
-                            "_id": "64e662d980265dca5bc09209",
-                            "type": "image",
-                            "data": "data16928201859461692820185946-data16839001029821683900102982-jason-zhao-A-IsjKpPXCE-unsplash.jpg",
-                            "name": "Zebre"
-                        }
-                    },
-                    {
-                        "_id": "64e665ab80265dca5bc09212",
-                        "title": "Chien",
-                        "description": "",
-                        "isCorrect": false,
-                        "image": {
-                            "_id": "64e663db80265dca5bc0920b",
-                            "type": "image",
-                            "data": "data16928204435161692820443516-labrador-recuperer.jpg",
-                            "name": "chien"
-                        }
-                    },
-                    {
-                        "_id": "64e6651d80265dca5bc09210",
-                        "title": "tigre",
-                        "description": "",
-                        "isCorrect": true,
-                        "image": {
-                            "_id": "64e663f480265dca5bc0920d",
-                            "type": "image",
-                            "data": "data16928204688221692820468822-tigre-du-bengale-incroyable-dans-nature.jpg",
-                            "name": "Tigre"
-                        }
-                    }
-                ],
-                "__v": 0
-            }
-        }            
+        }
 ] 
