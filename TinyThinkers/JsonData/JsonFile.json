@@ -135,13 +135,13 @@
                 "image": {
                     "_id": "64e7245080265dca5bc09246",
                     "type": "image",
-                    "data": "https://github.com/medomar/json_public_data/assets/122084936/b3daa5c0-a641-4fbe-a1e0-9c6c4449c53a",
+                    "data": "https://drive.google.com/file/d/1tCgsBCHmSPxrnv-vZd2BKGvWL9gndR1h/view?usp=drive_link",
                     "name": "Lion"
                 },
                 "audio": {
                     "_id": "6494320737e32c916ce14047",
                     "type": "son",
-                    "data":"https://drive.google.com/file/d/1k7PzB-2H6NZ8ugInElkG8qI2jEEFMe72/view",
+                    "data":"https://drive.google.com/file/d/1tCgsBCHmSPxrnv-vZd2BKGvWL9gndR1h/view?usp=sharing",
                     "name": "sans son"
                 },
                 "Answer": [
