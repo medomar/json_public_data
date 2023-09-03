@@ -229,7 +229,7 @@
            "Question": {
                "_id": "64a298050c11a47cea2dd086",
                "title": "Question sur les fruits",
-               "description": "Est ce que tu connais se fruit??",
+               "description": "Est-ce que tu connais ce fruit ?",
                "image": {
                    "_id": "647f94ebcaa96ef2fc1bee25",
                    "type": "image",
