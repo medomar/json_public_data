@@ -29,7 +29,7 @@
                         "image": {
                             "_id": "64e609d080265dca5bc09168",
                             "type": "image",
-                            "data": "https://github.com/medomar/json_public_data/assets/122084936/8c8afc00-9f86-4763-9c04-897af2a8edac",
+                            "data": "",
                             "name": "Orange"
                         }
                     },
@@ -41,7 +41,7 @@
                         "image": {
                             "_id": "64e649a880265dca5bc091a8",
                             "type": "image",
-                            "data": "https://github.com/medomar/json_public_data/assets/122084936/b05e890a-dfe4-479b-9aa3-844ec92e3b2b",
+                            "data": "",
                             "name": "melon"
                         }
                     },
@@ -53,7 +53,7 @@
                         "image": {
                             "_id": "64e64afe80265dca5bc091ac",
                             "type": "image",
-                            "data": "https://github.com/medomar/json_public_data/assets/122084936/0f148878-0332-4f37-9d38-6387bf565174",
+                            "data": "",
                             "name": "Banane"
                         }
                     }
@@ -251,7 +251,7 @@
                        "image": {
                            "_id": "64a29107508b7f93cb450c4e",
                            "type": "image",
-                           "data": "https://github.com/medomar/json_public_data/assets/122084936/24ea2f12-1b61-4270-8227-5b40bc2fb7a5",
+                           "data": "",
                            "name": "Ananas"
                        }
                    },
@@ -263,7 +263,7 @@
                        "image": {
                            "_id": "647f94ebcaa96ef2fc1bee25",
                            "type": "image",
-                           "data": "https://github.com/medomar/json_public_data/assets/122084936/fcea1640-6e1e-451a-be88-3af546709617",
+                           "data": "",
                            "name": "Abricot "
                        }
                    },
@@ -275,7 +275,7 @@
                        "image": {
                            "_id": "6486ec2584e0fd8a919c9f29",
                            "type": "image",
-                           "data": "https://github.com/medomar/json_public_data/assets/122084936/03e4ef83-2e3a-4583-b2c6-4a93c9836628",
+                           "data": "",
                            "name": "cerise"
                        }
                    }
