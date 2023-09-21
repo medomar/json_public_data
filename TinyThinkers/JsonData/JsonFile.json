@@ -4,7 +4,7 @@
         "Age": 7,
         "Category": "fruits",
         "state": true,
-        "Questions": [
+        "Question": [
             {
                 "_id": "64e672bf80265dca5bc0922b",
                 "title": "Question sur les fruits",
@@ -158,7 +158,7 @@
         "Age": 4,
         "Category": "légumes",
         "state": true,
-        "Questions": [
+        "Question": [
             {
                 "_id": "64a2a1a50c11a47cea2dd0b4",
                 "title": "Question sur les légumes",
@@ -312,7 +312,7 @@
     "Age": 7,
     "Category": "animal",
     "state": true,
-    "Questions": 
+    "Question": 
     [
     {
         "_id": "64e6611180265dca5bc091fd",
