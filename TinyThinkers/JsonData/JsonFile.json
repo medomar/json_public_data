@@ -1,7 +1,7 @@
 [
     {
         "_id": "64e6730a80265dca5bc09236",
-        "Age": 7,
+        "Age": 4,
         "Category": "fruits",
         "state": true,
         "Question": [
@@ -155,7 +155,7 @@
     },
     {
         "_id": "64a2a3b40c11a47cea2dd0c8",
-        "Age": 4,
+        "Age": 5,
         "Category": "légumes",
         "state": true,
         "Question": [
