@@ -4,7 +4,6 @@
         "Age": 4,
         "Category": "fruits",
         "state": true,
-        "imageQuiz":"https://github.com/medomar/json_public_data/assets/122084936/9d68b428-58a6-4da2-bc45-4e1ccaec8c32"
         "Question": [
             {
                 "_id": "64e672bf80265dca5bc0922b",
@@ -159,7 +158,6 @@
         "Age": 5,
         "Category": "légumes",
         "state": true,
-        "imageQuiz": "https://github.com/medomar/json_public_data/assets/122084936/c48e92f3-33b7-4d65-be4c-ed04a059dd74"
         "Question": [
             {
                 "_id": "64a2a1a50c11a47cea2dd0b4",
@@ -314,7 +312,6 @@
     "Age": 7,
     "Category": "animal",
     "state": true,
-     "imageQuiz": "https://github.com/medomar/json_public_data/assets/122084936/22aa4bc5-ca70-4810-8cc2-285a9b11bb8e"              
     "Question": 
     [
     {
