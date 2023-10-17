@@ -395,8 +395,8 @@
         "image": {
             "_id": "64e64e3980265dca5bc091b1",
             "type": "image",
-            "data": "https://github.com/medomar/json_public_data/assets/122084936/b147c4a5-b74f-477b-a639-c15282c915d6",
-            "name": "Canard"
+            "data": "https://github.com/medomar/json_public_data/assets/122084936/e79ee1e4-13e2-4c87-a46e-f7745f394a0a",
+            "name": "Tigre"
         },
         "audio": {
             "_id": "6494320737e32c916ce14047",
@@ -407,14 +407,14 @@
         "Answer": [
             {
                 "_id": "64e6600b80265dca5bc091f5",
-                "title": "Canard",
+                "title": "Tigre",
                 "description": "",
                 "isCorrect": true,
                 "image": {
                     "_id": "64e64e3980265dca5bc091b1",
                     "type": "image",
-                    "data": "https://github.com/medomar/json_public_data/assets/122084936/b147c4a5-b74f-477b-a639-c15282c915d6",
-                    "name": "Canard"
+                    "data": "https://github.com/medomar/json_public_data/assets/122084936/e79ee1e4-13e2-4c87-a46e-f7745f394a0a",
+                    "name": "Tigre"
                 },
                 "audio": {
                     "_id": "6494320737e32c916ce14047",
@@ -425,14 +425,14 @@
             },
             {
                 "_id": "64e6606f80265dca5bc091f7",
-                "title": "Coq",
+                "title": "Lapin",
                 "description": "",
                 "isCorrect": false,
                 "image": {
                     "_id": "6486ec6c84e0fd8a919c9f36",
                     "type": "image",
-                    "data": "https://github.com/medomar/json_public_data/assets/122084936/a51f8e4b-7068-45c4-a845-f74ba5a108fa",
-                    "name": "Coq"
+                    "data": "https://github.com/medomar/json_public_data/assets/122084936/3ca7d306-d480-4059-84a4-237e38a711fd",
+                    "name": "Lapin"
                 },
                 "audio": {
                     "_id": "6494320737e32c916ce14047",
@@ -443,14 +443,14 @@
             },
             {
                 "_id": "64e6609980265dca5bc091f9",
-                "title": "rat",
+                "title": "cheval",
                 "description": "",
                 "isCorrect": false,
                 "image": {
                     "_id": "64e64e8680265dca5bc091b7",
                     "type": "image",
-                    "data": "https://github.com/medomar/json_public_data/assets/122084936/d7084721-98d1-43c8-ad93-350a70c7b6a4",
-                    "name": "rat"
+                    "data": "https://github.com/medomar/json_public_data/assets/122084936/8bd7c080-775d-4aed-b5fb-358d9877bece",
+                    "name": "cheval"
                 },
                 "audio": {
                     "_id": "6494320737e32c916ce14047",
