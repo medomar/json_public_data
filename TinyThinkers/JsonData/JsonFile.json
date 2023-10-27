@@ -761,7 +761,7 @@
             "image": {
                 "_id": "65f78e284a3a9c000f4246bc",
                 "type": "image",
-                "data": "Lien de l'image du chien",
+                "data": "https://github.com/medomar/json_public_data/assets/122084936/10f5f89f-9170-448d-94e9-dc53b17d6f61",
                 "name": "Chien"
             },
             "audio": {
@@ -779,7 +779,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246bf",
                         "type": "image",
-                        "data": "Lien de l'image du chat",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/79edd0e4-597f-4fc5-aa42-a98a6524c0eb",
                         "name": "Chat"
                     },
                     "audio": {
@@ -797,7 +797,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246c2",
                         "type": "image",
-                        "data": "Lien de l'image du chien",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/10f5f89f-9170-448d-94e9-dc53b17d6f61",
                         "name": "Chien"
                     },
                     "audio": {
@@ -815,7 +815,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246c5",
                         "type": "image",
-                        "data": "Lien de l'image du lion",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/dc491715-e2ef-4387-93bb-3831e5bbe1de",
                         "name": "Lion"
                     },
                     "audio": {
@@ -834,7 +834,7 @@
             "image": {
                 "_id": "65f78e284a3a9c000f4246c8",
                 "type": "image",
-                "data": "Lien de l'image de l'éléphant",
+                "data": "https://github.com/medomar/json_public_data/assets/122084936/c59cadeb-0bb7-4f31-aec2-24094dea5dbc",
                 "name": "Éléphant"
             },
             "audio": {
@@ -852,7 +852,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246cb",
                         "type": "image",
-                        "data": "Lien de l'image de la girafe",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/965299b5-6c66-4e3a-a56a-6acd718f8cb2",
                         "name": "Girafe"
                     },
                     "audio": {
@@ -870,7 +870,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246ce",
                         "type": "image",
-                        "data": "Lien de l'image de l'éléphant",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/c59cadeb-0bb7-4f31-aec2-24094dea5dbc",
                         "name": "Éléphant"
                     },
                     "audio": {
@@ -888,7 +888,7 @@
                     "image": {
                         "_id": "65f78e284a3a9c000f4246d1",
                         "type": "image",
-                        "data": "Lien de l'image du zèbre",
+                        "data": "https://github.com/medomar/json_public_data/assets/122084936/a846af2f-b51b-49ca-ba6e-d563ab2b84a9",
                         "name": "Zèbre"
                     },
                     "audio": {
