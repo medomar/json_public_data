@@ -600,9 +600,9 @@
         ]
     },
              {
-    "_id": "64e6612e80265dca5bc091ff",
-    "Age": 7,
-    "Category": "animal",
+    "quizId": "64e6612e80265dca5bc091ff",
+    "age": 7,
+    "categories": "animal",
     "state": true,
     "question": 
     [
