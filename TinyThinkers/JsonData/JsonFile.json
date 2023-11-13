@@ -6,7 +6,7 @@
         "state": true,
         "question": [
             {
-                "id": "64e672bf80265dca5bc0922b",
+                "questionId": "64e672bf80265dca5bc0922b",
                 "title": "Question sur les fruits",
                 "description": "Quel est ce fruit ?",
                 "image": {
@@ -79,7 +79,7 @@
                 ]
             },
             {
-                "id": "64a299180c11a47cea2dd093",
+                "questionId": "64a299180c11a47cea2dd093",
                 "title": "Question sur les fruits",
                 "description": "Est-ce que tu connais ce fruit ?",
                 "image": {
@@ -152,7 +152,7 @@
                 ]
             },
             {
-            "id": "65f78e284a3a9c000f424688",
+            "questionId": "65f78e284a3a9c000f424688",
             "title": "Question sur les fruits",
             "description": "Identifie ce fruit.",
             "image": {
@@ -225,7 +225,7 @@
             ]
         },
         {
-            "id": "65f78e284a3a9c000f424695",
+            "questionId": "65f78e284a3a9c000f424695",
             "title": "Question sur les fruits",
             "description": "Peux-tu trouver ce fruit ?",
             "image": {
@@ -306,7 +306,7 @@
         "state": true,
         "question": [
             {
-                "id": "64a2a1a50c11a47cea2dd0b4",
+                "questionId": "64a2a1a50c11a47cea2dd0b4",
                 "title": "Question sur les légumes",
                 "description": "Est-ce que tu connais ce légume ??",
                 "image": {
@@ -321,56 +321,56 @@
                     "data": "https://drive.google.com/uc?export=download&id=1UF-vgqh1yd4oRR_dxwgGszyjqX7mcWCN",
                     "name": "sans son"
                 },
-                "Answer": [
+                "answer": [
                     {
-                        "_id": "64a29e590c11a47cea2dd0ac",
+                        "id": "64a29e590c11a47cea2dd0ac",
                         "title": "Citrouille",
                         "description": "",
                         "isCorrect": false,
                         "image": {
-                            "_id": "64a29c7f0c11a47cea2dd0a2",
+                            "id": "64a29c7f0c11a47cea2dd0a2",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/32224b44-5d6c-4672-9f9b-993b4390136e",
                             "name": "Citrouille "
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/uc?export=download&id=1UBSVF2sluR1Gc7ZWo1kPWndhcCrVHquO",
                             "name": "sans son"
                         }
                     },
                     {
-                        "_id": "64a29ded0c11a47cea2dd0a9",
+                        "questionId": "64a29ded0c11a47cea2dd0a9",
                         "title": "Chou-fleur",
                         "description": "",
                         "isCorrect": false,
                         "image": {
-                            "_id": "64a29d4d0c11a47cea2dd0a4",
+                            "id": "64a29d4d0c11a47cea2dd0a4",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/44a1b9f3-be83-4ea6-a17f-894872af31ac",
                             "name": "Chou-fleur "
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/uc?export=download&id=1Bha7Swl_Y0h5cTnlvesSC0H_X18jkCv2",
                             "name": "sans son"
                         }
                     },
                     {
-                        "_id": "64a29b720c11a47cea2dd09e",
+                        "answerId": "64a29b720c11a47cea2dd09e",
                         "title": "Pomme de terre",
                         "description": "La pomme de terre est un légume rond et délicieux. Elle pousse sous la terre et peut être brune, jaune ou violette à l'extérieur. À l'intérieur, elle est blanche ou jaune pâle. On peut la cuisiner de différentes façons, comme des frites ou de la purée. La pomme de terre est bonne pour notre corps car elle contient des vitamines et des minéraux. C'est un légume spécial et savoureux !",
                         "isCorrect": true,
                         "image": {
-                            "_id": "647f0937caa96ef2fc1bec6d",
+                            "id": "647f0937caa96ef2fc1bec6d",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/1a30edcf-9e53-49d7-8615-b71e8c4a6a21",
                             "name": "Pomme de terre"
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/uc?export=download&id=1UF-vgqh1yd4oRR_dxwgGszyjqX7mcWCN",
                             "name": "sans son"
@@ -379,71 +379,71 @@
                 ]
             },
             {
-                "_id": "64e63ae980265dca5bc09191",
+                "questionId": "64e63ae980265dca5bc09191",
                 "title": "Question sur les légumes",
                 "description": "Reconnais-tu ce légume ?",
                 "image": {
-                    "_id": "64e609fa80265dca5bc0916a",
+                    "id": "64e609fa80265dca5bc0916a",
                     "type": "image",
                     "data": "",
                     "name": "Ognions"
                 },
                 "audio": {
-                    "_id": "6494320737e32c916ce14047",
+                    "id": "6494320737e32c916ce14047",
                     "type": "son",
                     "data": null,
                     "name": "sans son"
                 },
-                "Answer": [
+                "answer": [
                     {
-                        "_id": "64e62ab180265dca5bc09175",
+                        "answerId": "64e62ab180265dca5bc09175",
                         "title": "Citrouille",
                         "description": "",
                         "isCorrect": false,
                         "image": {
-                            "_id": "64a29c7f0c11a47cea2dd0a2",
+                            "id": "64a29c7f0c11a47cea2dd0a2",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/32224b44-5d6c-4672-9f9b-993b4390136e",
                             "name": "Citrouille "
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/file/d/1UBSVF2sluR1Gc7ZWo1kPWndhcCrVHquO/view?usp=drive_link",
                             "name": "sans son"
                         }
                     },
                     {
-                        "_id": "64e629c180265dca5bc09173",
+                        "answerId": "64e629c180265dca5bc09173",
                         "title": "Carotte",
                         "description": "",
                         "isCorrect": false,
                         "image": {
-                            "_id": "64e607d380265dca5bc09156",
+                            "id": "64e607d380265dca5bc09156",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/c564bc0b-5ccb-4b56-a5e4-afa00c70b5d9",
                             "name": "Carotte "
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/uc?export=download&id=1h_VKcM1hcXQ_7EwqVo_rvdXHOd-X_S1N",
                             "name": "sans son"
                         }
                     },
                     {
-                        "_id": "64e625f380265dca5bc0916f",
+                        "answerId": "64e625f380265dca5bc0916f",
                         "title": "Ognions",
                         "description": "",
                         "isCorrect": true,
                         "image": {
-                            "_id": "64e609fa80265dca5bc0916a",
+                            "id": "64e609fa80265dca5bc0916a",
                             "type": "image",
                             "data": "https://github.com/medomar/json_public_data/assets/122084936/69d0f538-113f-4565-989a-36d4e0dfd47d",
                             "name": "Ognions"
                         },
                         "audio": {
-                            "_id": "6494320737e32c916ce14047",
+                            "id": "6494320737e32c916ce14047",
                             "type": "son",
                             "data": "https://drive.google.com/uc?export=download&id=1ioycReYmYo3FniTK0pZnZyTjZOaGdBKx",
                             "name": "sans son"
@@ -452,71 +452,71 @@
                 ]
             },
             {
-            "_id": "65f78e284a3a9c000f4246a2",
+            "questionId": "65f78e284a3a9c000f4246a2",
             "title": "Question sur les légumes",
             "description": "Identifie ce légume.",
             "image": {
-                "_id": "65f78e284a3a9c000f4246a3",
+                "id": "65f78e284a3a9c000f4246a3",
                 "type": "image",
                 "data": "https://github.com/medomar/json_public_data/assets/122084936/332b0da4-d0b8-4a30-9d80-59d471f6bac3",
                 "name": "Carotte"
             },
             "audio": {
-                "_id": "65f78e284a3a9c000f4246a4",
+                "id": "65f78e284a3a9c000f4246a4",
                 "type": "son",
                 "data": "Lien audio pour la carotte",
                 "name": "sans son"
             },
-            "Answer": [
+            "answer": [
                 {
-                    "_id": "65f78e284a3a9c000f4246a5",
+                    "answerId": "65f78e284a3a9c000f4246a5",
                     "title": "Tomate",
                     "description": "",
                     "isCorrect": false,
                     "image": {
-                        "_id": "65f78e284a3a9c000f4246a6",
+                        "id": "65f78e284a3a9c000f4246a6",
                         "type": "image",
                         "data": "https://github.com/medomar/json_public_data/assets/122084936/e464357b-3f61-435c-acda-e69c41dfab42",
                         "name": "Tomate"
                     },
                     "audio": {
-                        "_id": "65f78e284a3a9c000f4246a7",
+                        "id": "65f78e284a3a9c000f4246a7",
                         "type": "son",
                         "data": "Lien audio pour la tomate",
                         "name": "sans son"
                     }
                 },
                 {
-                    "_id": "65f78e284a3a9c000f4246a8",
+                    "answerId": "65f78e284a3a9c000f4246a8",
                     "title": "Carotte",
                     "description": "",
                     "isCorrect": true,
                     "image": {
-                        "_id": "65f78e284a3a9c000f4246a9",
+                        "id": "65f78e284a3a9c000f4246a9",
                         "type": "image",
                         "data": "https://github.com/medomar/json_public_data/assets/122084936/332b0da4-d0b8-4a30-9d80-59d471f6bac3",
                         "name": "Carotte"
                     },
                     "audio": {
-                        "_id": "65f78e284a3a9c000f4246aa",
+                        "id": "65f78e284a3a9c000f4246aa",
                         "type": "son",
                         "data": "Lien audio pour la carotte",
                         "name": "sans son"
                     }
                 },
                 {
-                    "_id": "65f78e284a3a9c000f4246ab",
+                    "answerId": "65f78e284a3a9c000f4246ab",
                     "title": "Aubergine",
                     "description": "",
                     "isCorrect": false,
                     "image": {
-                        "_id": "65f78e284a3a9c000f4246ac",
+                        "id": "65f78e284a3a9c000f4246ac",
                         "type": "image",
                         "data": "https://github.com/medomar/json_public_data/assets/122084936/238dadc5-abde-4881-9e3c-ff05c369c3fc",
                         "name": "Aubergine"
                     },
                     "audio": {
-                        "_id": "65f78e284a3a9c000f4246ad",
+                        "id": "65f78e284a3a9c000f4246ad",
                         "type": "son",
                         "data": "Lien audio pour l'aubergine",
                         "name": "sans son"
@@ -525,42 +525,42 @@
             ]
         },
             {
-            "_id": "65f78e284a3a9c000f4246ae",
+            "questionId": "65f78e284a3a9c000f4246ae",
             "title": "Question sur les légumes",
             "description": "Peux-tu trouver ce légume ?",
             "image": {
-                "_id": "65f78e284a3a9c000f4246af",
+                "id": "65f78e284a3a9c000f4246af",
                 "type": "image",
                 "data": "https://github.com/medomar/json_public_data/assets/122084936/54095dc2-d301-4a11-9ed3-447738940e0b",
                 "name": "Concombre"
             },
             "audio": {
-                "_id": "65f78e284a3a9c000f4246b0",
+                "id": "65f78e284a3a9c000f4246b0",
                 "type": "son",
                 "data": "Lien audio pour le concombre",
                 "name": "sans son"
             },
-            "Answer": [
+            "answer": [
                 {
-                    "_id": "65f78e284a3a9c000f4246b1",
+                    "answerId": "65f78e284a3a9c000f4246b1",
                     "title": "Pomme de terre",
                     "description": "",
                     "isCorrect": false,
                     "image": {
-                        "_id": "65f78e284a3a9c000f4246b2",
+                        "id": "65f78e284a3a9c000f4246b2",
                         "type": "image",
                         "data": "https://github.com/medomar/json_public_data/assets/122084936/dab83706-884a-4674-91a5-77a97a62abe1",
                         "name": "Pomme de terre"
                     },
                     "audio": {
-                        "_id": "65f78e284a3a9c000f4246b3",
+                        "id": "65f78e284a3a9c000f4246b3",
                         "type": "son",
                         "data": "Lien audio pour la pomme de terre",
                         "name": "sans son"
                     }
                 },
                 {
-                    "_id": "65f78e284a3a9c000f4246b4",
+                    "answerId": "65f78e284a3a9c000f4246b4",
                     "title": "Concombre",
                     "description": "",
                     "isCorrect": true,
@@ -578,7 +578,7 @@
                     }
                 },
                 {
-                    "_id": "65f78e284a3a9c000f4246b7",
+                    "answerId": "65f78e284a3a9c000f4246b7",
                     "title": "Courgette",
                     "description": "",
                     "isCorrect": false,
@@ -600,14 +600,14 @@
         ]
     },
              {
-    "_id": "64e6612e80265dca5bc091ff",
-    "Age": 7,
-    "Category": "animal",
+    "questionId": "64e6612e80265dca5bc091ff",
+    "age": 7,
+    "categories": "animal",
     "state": true,
     "question": 
     [
     {
-        "id": "64e6611180265dca5bc091fd",
+        "questionId": "64e6611180265dca5bc091fd",
         "title": "Question sur les Animaux",
         "description": "Reconnaissez-vous cet animal ?",
         "image": {
@@ -681,7 +681,7 @@
         "__v": 0
     },
     {
-        "id": "64e6611180265dca5bc091fb",
+        "questionId": "64e6611180265dca5bc091fb",
         "title": "Question sur les Animaux",
         "description": "Reconnaissez-vous cet animal ?",
         "image": {
@@ -755,7 +755,7 @@
         "__v": 0
     },
     {
-            "id": "65f78e284a3a9c000f4246bb",
+            "questionId": "65f78e284a3a9c000f4246bb",
             "title": "Question sur les animaux",
             "description": "Identifie cet animal.",
             "image": {
@@ -828,7 +828,7 @@
             ]
         },
     {
-            "id": "65f78e284a3a9c000f4246c7",
+            "questionId": "65f78e284a3a9c000f4246c7",
             "title": "Question sur les animaux",
             "description": "Peux-tu trouver cet animal ?",
             "image": {
