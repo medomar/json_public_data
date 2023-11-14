@@ -10,7 +10,7 @@
                 "title": "Question sur les fruits",
                 "description": "Quel est ce fruit ?",
                 "image": {
-                    "_id": "64e64afe80265dca5bc091ac",
+                    "imageId": "64e64afe80265dca5bc091ac",
                     "type": "image",
                     "data": "",
                     "name": "Banane"
